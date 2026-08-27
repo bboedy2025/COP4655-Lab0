@@ -3,15 +3,15 @@ Mobile App Projects Codepath Prework project
 
 ## Introduction App
 
+
 ### App Description
 
 The introduction app allows users to enter their first name, last name, and the university they attend. Then, the user can select what year they are in at their unviersity, use a stepper to state the number of pets they have, then use a switch indicating whether the user does or does not want additional pets. 
 
+
 ### App Walk-though
 
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
-
-<!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
+<img src="Lab0.gif" width=200><br>
 
 
 ### Required Features
@@ -22,6 +22,7 @@ The introduction app allows users to enter their first name, last name, and the 
 - [x] 4. Number of pet matches label is increased/decreased by stepper
 - [x] 5. Switch makes a statement about wanting more pets or not(true/false) 
 - [x] 6. Introduce yourself button shows alert box with an introduciton and dismiss button
+
 
 ### Optional Features
 
